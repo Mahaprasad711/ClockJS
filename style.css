@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background-image: url(4k-forest-7sfd6znw2ry6hnlt.jpg);
+  background-size:  cover; /* Cover the entire page */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+}
+
+
+
+.heading
+{
+ color: white;
+  font-family: Impact;
+  text-align: center;
+  
+}
+#clockimg
+{
+  margin-top: 20px;
+}
+
+
+#output{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  
+  font-size: 100px;
+  color: white;
+}
+
